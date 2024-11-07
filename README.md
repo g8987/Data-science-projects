@@ -2,6 +2,7 @@
 👋 Welcome to My GitHub Profile!
 
 About Me
+
 I’m a data enthusiast passionate about leveraging analytics to uncover insights and solve complex business challenges. I specialize in using Python, SQL, and data visualization tools like Power BI and Tableau to transform raw data into meaningful, actionable information. Currently, I’m exploring machine learning and AI applications for sustainable supply chain optimization.
 
 Projects
