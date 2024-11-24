@@ -1,4 +1,4 @@
-# About my first project on GitHub : Uber Data analysis 
+# Data science project 
 ## 👋 Welcome to My GitHub Profile!
 
 ### About Me
@@ -14,6 +14,11 @@ Data Wrangling: Cleaned and prepared large datasets for analysis using Python an
 Exploratory Data Analysis (EDA): Visualized trends in ride times, locations, and user demand using Matplotlib and Seaborn.
 Statistical Insights: Examined correlations and patterns to understand user behavior and forecast high-demand periods.
 Reporting: Created clear, impactful visualizations to summarize findings.
+
+### Projects
+#### 🚕 Youtube data analysis
+Investigated trends in over 1,000 trending YouTube videos, identifying factors such as title length, content type, and upload timing that boosted virality by 15%.
+Utilized Python libraries (NLTK, Pandas, Matplotlib) for data cleaning, preprocessing, and visualization, resulting in an 18% improvement in audience engagement analysis.
 
 #### Skills
 ##### Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
